@@ -1,6 +1,6 @@
 // API client for the FastAPI backend.
 
-export const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://127.0.0.1:8000';
+export const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://skyai-squads-aco3.onrender.com';
 export const API_TIMEOUT = 300000; // document OCR + AI analysis can take longer than a normal API call
 
 const SESSION_KEY = 'ldi_session';
