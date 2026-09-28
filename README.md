@@ -114,7 +114,7 @@ https://skyai-squad.onrender.com/
 ### GitHub Repository
 
 **GitHub Repository:**
-[https://github.com/Hariom-codes/SkyAI-Squads](https://github.com/Hariom-codes/SkyAI-Squads/tree/main/Tata-Legal-AI-Demo-Ready-Corrected-v2%20-%20Copy/Tata-Legal-AI-Demo-Ready-Corrected-v2%20copy)
+[https://github.com/Hariom-codes/SkyAI-Squads](https://github.com/Hariom-codes/SkyAI-Squads-GENAI-GROUP-PROJECT)
 
 
 ---
