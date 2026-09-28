@@ -104,12 +104,12 @@ Users can upload a legal PDF and obtain structured AI-assisted insights from the
 ### Frontend
 
 **Live Frontend:**
-https://eclectic-biscotti-bca046.netlify.app/
+https://skyai-squads.netlify.app/
 
 ### Backend API
 
 **Live Backend:**
-https://skyai-squads-aco3.onrender.com/
+https://skyai-squad.onrender.com/
 
 ### GitHub Repository
 
